@@ -1,5 +1,5 @@
 def check_vowels():
-nombre = str(input("Nicolas"))
+nombre = str(input("matias"))
 
 
 contiene_a = "a" in nombre
